@@ -1,3 +1,6 @@
 cd <path> Changes the working directory to <path>
 ls <path> Lists the directory content of <path>
 ...
+Be carefull with SUDO, superuser can be dangerous
+removing a directory must use the recursive flag -r like so: rm -r <file>
+≈

@@ -1,3 +1,5 @@
 git add <file> Adds any changes inside <file> to the staging area
 git commit -m '<message>' Commits the staging area to the repository with a <message>
 ...
+awesome tool for building projects.  I learned that you can push a whole branch for someone to THINK about pulling
+
